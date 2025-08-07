@@ -1,5 +1,4 @@
-nav img {
-  max-height: 48px !important; /* или любое другое значение */
-  height: auto;
-  width: auto;
+.nav-logo {
+  height: 48px !important;
+  width: auto !important;
 }
