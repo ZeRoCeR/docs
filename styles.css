@@ -1,4 +1,5 @@
 .nav-logo {
   height: 48px !important;
   width: auto !important;
+  margin-left: 25px !important; /* ← отступ слева */
 }
