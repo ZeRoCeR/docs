@@ -1,0 +1,5 @@
+nav img {
+  max-height: 48px !important; /* или любое другое значение */
+  height: auto;
+  width: auto;
+}
