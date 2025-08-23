@@ -14,11 +14,15 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Расы",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "human",
+              "dwarf",
+              "elf",
+              "tiefling",
+              "furry",
+              "ravenfolk",
+              "ratfolk"
             ]
           },
           {
