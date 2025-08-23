@@ -71,17 +71,17 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Форум",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
+          "anchor": "Лаунчер",
           "href": "https://mintlify.com/community",
           "icon": "slack"
         },
         {
-          "anchor": "Blog",
+          "anchor": "Дискорд",
           "href": "https://mintlify.com/blog",
           "icon": "newspaper"
         }
