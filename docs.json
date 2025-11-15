@@ -1,5 +1,4 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
   "theme": "almond",
   "name": "VarryalRP",
   "colors": {
@@ -76,18 +75,18 @@
       "anchors": [
         {
           "anchor": "Форум",
-          "href": "https://mintlify.com/docs",
+          "href": "https://varryal.ru",
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Лаунчер",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "Скачать лаунчер",
+          "href": "https://varryal.ru",
+          "icon": "download"
         },
         {
           "anchor": "Дискорд",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "href": "https://discord.gg/hm2AVSVhNX",
+          "icon": "discord"
         }
       ]
     }
