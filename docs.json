@@ -95,18 +95,6 @@
     "light": "",
     "dark": ""
   },
-  "contextual": {
-    "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
-  },
   "search": {
     "prompt": "Поиск..."
   }
