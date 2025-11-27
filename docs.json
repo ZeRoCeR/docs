@@ -17,11 +17,7 @@
             "pages": [
               "human",
               "dwarf",
-              "elf",
-              "tiefling",
-              "furry",
-              "ravenfolk",
-              "ratfolk"
+              "elf"
             ]
           },
           {
